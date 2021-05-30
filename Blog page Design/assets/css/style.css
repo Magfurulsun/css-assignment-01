@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: lightblue;
+}
+.sun {
+  width: 700px;
+  background-color: white;
+  margin: 50px auto 0px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 10px;
+  text-align: center;
+}
+.sun h2 {
+  font-size: 40px;
+  color: black;
+}
+.sun img {
+  width: 500px;
+  height: 300px;
+}
+.sun p {
+  margin: 20px 0px;
+  color: black;
+  text-align: justify;
+}
